@@ -1,2 +1,2 @@
-# LightVotingSystem
- Voting system
+# VotingSystem
+ 
